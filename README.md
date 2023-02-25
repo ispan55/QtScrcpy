@@ -31,16 +31,16 @@ QtScrcpy поддерживает отображение и управление
 
 ![linux](screenshot/linux-en.png)
 
-## Mapping Keys
-You can write your script to map keyboard and mouse actions to touches and clicks of the mobile phone according to your needs. [Here](docs/KeyMapDes.md) are the script writing rules.
+## Сопоставление ключей
+Вы можете написать свой скрипт для сопоставления действий клавиатуры и мыши с прикосновениями и щелчками мобильного телефона в соответствии с вашими потребностями. [Here](docs/KeyMapDes.md) правила написания сценария.
 
-Script for TikTok and some other games are provided by default. Once enabled, you can play the game with your keyboard and mouse. The default key mapping for PUBG Mobile is as follows:
+Скрипт для TikTok и некоторых других игр предоставляется по умолчанию. После включения вы можете играть в игру с помощью клавиатуры и мыши. Сопоставление клавиш по умолчанию для PUBG Mobile выглядит следующим образом:
 
 ![game](screenshot/game.jpg)
 
 [Here is a video demonstration playing PUBG Mobile.](http://mp.weixin.qq.com/mp/video?__biz=MzU1NTg5MjYyNw==&mid=100000015&sn=3e301fdc5a364bd16d6207fa674bc8b3&vid=wxv_968792362971430913)
 
-Instruction for adding new customized mapping files.
+Инструкция по добавлению новых пользовательских файлов сопоставления.
 
 - Write a customized script and put it in the `keymap` directory
 - Click `refresh script` to show it
