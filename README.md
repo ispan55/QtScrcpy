@@ -10,18 +10,18 @@
 
 [中文用户？点我查看中文介绍](README_zh.md)
 
-QtScrcpy supports displaying and controlling Android devices via USB or over network. It does NOT require root privileges.
+QtScrcpy поддерживает отображение и управление устройствами Android через USB или по сети. Для этого не требуются привилегии суперпользователя.
 
-It supports three major platforms: GNU/Linux, Windows and macOS.
+Поддерживает три платформы: GNU/Linux, Windows и macOS.
 
-It focuses on:
+Она фокусируется на:
 
- - **lightness** (displays only the device screen)
+ - **lightness** (отображает экран устройства)
  - **performance** (30~60 fps)
- - **quality** (1920×1080 or above)
+ - **quality** (1920×1080 и выше)
  - **low latency** ([35~70ms][lowlatency])
- - **low startup time** (only about 1 second to display the first frame)
- - **non-intrusiveness** (nothing will be installed on the device)
+ - **low startup time** (около 1 секунды для отображения первого кадра)
+ - **non-intrusiveness** (на устройство ничего не будет установлено)
 
 [lowlatency]: https://github.com/Genymobile/scrcpy/pull/646
 
