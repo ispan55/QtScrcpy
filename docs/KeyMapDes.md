@@ -1,10 +1,10 @@
-# Custom key mapping instructions
+# Инструкции по сопоставлению пользовательских клавиш
 
-The key map file is in json format, and the new key map file needs to be placed in the keymap directory to be recognized by QtScrcpy.
+Файл сопоставления клавиш имеет формат json, и новый файл сопоставления клавиш необходимо поместить в каталог сопоставления клавиш, чтобы QtScrcpy распознавал его.
 
-The specific writing format of the button mapping file will be introduced below, and you can also refer to the button mapping file that comes with it.
+Конкретный формат записи файла сопоставления кнопок будет представлен ниже, и вы также можете обратиться к файлу сопоставления кнопок, который поставляется вместе с ним.
 
-## Key mapping script format description
+## Описание формата скрипта сопоставления клавиш
 
 ### General Instructions
 
