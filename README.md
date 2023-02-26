@@ -38,15 +38,15 @@ QtScrcpy поддерживает отображение и управление
 
 ![game](screenshot/game.jpg)
 
-[Here is a video demonstration playing PUBG Mobile.](http://mp.weixin.qq.com/mp/video?__biz=MzU1NTg5MjYyNw==&mid=100000015&sn=3e301fdc5a364bd16d6207fa674bc8b3&vid=wxv_968792362971430913)
+[Вот видео-демонстрация игры в PUBG Mobile.](http://mp.weixin.qq.com/mp/video?__biz=MzU1NTg5MjYyNw==&mid=100000015&sn=3e301fdc5a364bd16d6207fa674bc8b3&vid=wxv_968792362971430913)
 
 Инструкция по добавлению новых пользовательских файлов сопоставления.
 
-- Write a customized script and put it in the `keymap` directory
-- Click `refresh script` to show it
-- Select your script
-- Connect to your phone, start service and click `apply`
-- Press `~` key (the SwitchKey in the key map script) to switch to custom mapping mode
+- Напишите настроенный скрипт и поместите его в `keymap` директорию
+- Нажмите  `refresh script` чтобы показать это
+- Выберите свой скрипт
+- Подключитесь к своему телефону, запустите сервис и нажмите `apply`
+- Нажмите `~` клавишу (the SwitchKey in the key map скрипт) чтобы переключиться в режим пользовательского отображения
 - Press the ~ key again to switch back to normal mode
 - (For games such as PUBG Mobile) If you want to move vehicles with the STEER_WHEEL keys, you need to set the move mode to `single rocker mode`.
 
